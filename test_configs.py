@@ -24,6 +24,7 @@ class TestStringMethods(unittest.TestCase):
         self.assertEqual(missing_field, 0)
 
     def test_topics(self):
+        #compare hash with settings
         pass
 
     def test_config(self):
